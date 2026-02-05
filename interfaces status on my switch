@@ -1,0 +1,28 @@
+SW1# show interfaces status
+Port      Name               Status       Vlan       Duplex  Speed Type
+Fa0/1                        connected    10         a-full  a-100 10/100BaseTX
+Fa0/2                        connected    10         a-full  a-100 10/100BaseTX
+Fa0/3                        connected    10         a-full  a-100 10/100BaseTX
+Fa0/4                        connected    20         a-full  a-100 10/100BaseTX
+Fa0/5                        connected    20         a-full  a-100 10/100BaseTX
+Fa0/6                        connected    20         a-full  a-100 10/100BaseTX
+Fa0/7                        connected    30         a-full  a-100 10/100BaseTX
+Fa0/8                        connected    30         a-full  a-100 10/100BaseTX
+Fa0/9                        connected    30         a-full  a-100 10/100BaseTX
+Fa0/10                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/11                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/12                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/13                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/14                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/15                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/16                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/17                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/18                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/19                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/20                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/21                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/22                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/23                       notconnect   1          auto    auto  10/100BaseTX
+Fa0/24                       connected    30         a-full  a-100 10/100BaseTX
+Gig0/1                       connected    10         a-full  a-100 10/100/1000BaseTX
+Gig0/2                       connected    20         a-full  a-100 10/100/1000BaseTX
