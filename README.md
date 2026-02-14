@@ -2,6 +2,9 @@
 Designed and implemented VLAN-based network segmentation for enterprise security and traffic isolation. This project demonstrates practical Layer 2 switching concepts including VLAN creation, port assignment, and departmental network separation.
 📊 Network Architecture
 VLAN Segmentation Strategy
+
+
+
                     [SW1]
                       |
         +-------------+-------------+
@@ -11,6 +14,11 @@ VLAN Segmentation Strategy
         |             |             |
    Fa0/1-3        Fa0/4-6       Fa0/7-9
    Gig0/1         Gig0/2        Fa0/24
+
+
+
+
+   
 ## 🎯 Skills Demonstrated
 
 ### Layer 2 Switching
